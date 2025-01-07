@@ -17,7 +17,7 @@ This repository contains a **comprehensive database system** designed to manage 
 
 ## 📊 ERD Diagram:  
 A detailed **Entity-Relationship Diagram (ERD)** is included to visualize the database structure and relationships between tables.  
-![ERD Diagram](./root/diagram.png)  
+![ERD Diagram](./diagram.png)  
 
 ## 📂 File Structure:  
 - **Database Schema:**  
