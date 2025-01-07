@@ -55,9 +55,5 @@ The database comes with example data for testing functionality, including users,
 2. Run the `AmusementParkDB.sql` file to create the database structure.  
 3. Use `Procedures.sql`, `Triggers.sql`, and `Views.sql` to add advanced functionality.  
 
-## 🌟 About the Author:  
-**Wojciech Staszewski**  
-Passionate about designing and optimizing database systems to solve complex real-world problems.  
-
 ---
 Enjoy exploring this robust database system for amusement park management! 🎡
