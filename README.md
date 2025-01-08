@@ -106,8 +106,3 @@ The database includes example data for testing functionality, such as users, tic
 3. Configure the connection string in `appsettings.json`.  
 4. Build and run the Razor Pages application using Visual Studio or the .NET CLI.  
 5. Use `Procedures.sql`, `Triggers.sql`, and `Views.sql` to add advanced functionality.  
-
----
-
-## 🔖 Tags  
-`sql` `razor-pages` `entity-framework` `web-application` `amusement-park` `database-management` `crud` `master-slave` `filtering-sorting` `asp-net`
