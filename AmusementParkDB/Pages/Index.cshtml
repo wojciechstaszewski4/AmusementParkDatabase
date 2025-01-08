@@ -1,0 +1,36 @@
+﻿@page
+@model AmusementParkDB.Pages.IndexModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container mt-5">
+    <div class="text-center">
+        <h1 class="display-4 text-primary mb-4">Welcome to the Amusement Park Management System</h1>
+        <p class="lead text-muted">This platform allows you to manage various aspects of the amusement park, including
+            users, attractions, events, orders, and more.</p>
+
+        <div class="list-group">
+            <a class="list-group-item list-group-item-action" asp-page="/Users/Index">Manage Users</a>
+            <a class="list-group-item list-group-item-action" asp-page="/ACL/Index">Manage ACL</a>
+            <a class="list-group-item list-group-item-action" asp-page="/Agreements/Index">Manage Agreements</a>
+            <a class="list-group-item list-group-item-action" asp-page="/AttractionCategories/Index">Manage Attraction
+                Categories</a>
+            <a class="list-group-item list-group-item-action" asp-page="/Attractions/Index">Manage Attractions</a>
+            <a class="list-group-item list-group-item-action" asp-page="/Coupons/Index">Manage Coupons</a>
+            <a class="list-group-item list-group-item-action" asp-page="/Departments/Index">Manage Departments</a>
+            <a class="list-group-item list-group-item-action" asp-page="/Employess/Index">Manage Employees</a>
+            <a class="list-group-item list-group-item-action" asp-page="/Events/Index">Manage Events</a>
+            <a class="list-group-item list-group-item-action" asp-page="/Orders/Index">Manage Orders</a>
+            <a class="list-group-item list-group-item-action" asp-page="/OrderItems/Index">Manage Order Items</a>
+            <a class="list-group-item list-group-item-action" asp-page="/Products/Index">Manage Products</a>
+            <a class="list-group-item list-group-item-action" asp-page="/Promotions/Index">Manage Promotions</a>
+            <a class="list-group-item list-group-item-action" asp-page="/Reservations/Index">Manage Reservations</a>
+            <a class="list-group-item list-group-item-action" asp-page="/Reviews/Index">Manage Reviews</a>
+            <a class="list-group-item list-group-item-action" asp-page="/Stores/Index">Manage Stores</a>
+            <a class="list-group-item list-group-item-action" asp-page="/StoreInventories/Index">Manage Store
+                Inventories</a>
+            <a class="list-group-item list-group-item-action" asp-page="/Tickets/Index">Manage Tickets</a>
+        </div>
+    </div>
+</div>
