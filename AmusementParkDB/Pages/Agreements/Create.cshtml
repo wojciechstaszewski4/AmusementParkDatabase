@@ -1,0 +1,47 @@
+﻿@page
+@model AmusementParkDB.Pages.Agreements.CreateModel
+
+<h4>Create Agreement</h4>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Agreement.IdUsers" class="control-label">User ID</label>
+                <select asp-for="Agreement.IdUsers" class="form-control" asp-items="ViewBag.IdUsers">
+                    <option value="">-- Select User ID --</option>
+                </select>
+                <span asp-validation-for="Agreement.IdUsers" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Agreement.Type" class="control-label">Agreement Type</label>
+                <input asp-for="Agreement.Type" class="form-control" />
+                <span asp-validation-for="Agreement.Type" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Agreement.Date" class="control-label">Date</label>
+                <input asp-for="Agreement.Date" type="date" class="form-control" />
+                <span asp-validation-for="Agreement.Date" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

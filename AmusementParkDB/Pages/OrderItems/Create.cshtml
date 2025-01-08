@@ -1,0 +1,71 @@
+﻿@page
+@model AmusementParkDB.Pages.OrderItems.CreateModel
+
+<h4>Create Order Item</h4>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="OrderItem.IdOrders" class="control-label">Order ID</label>
+                <select asp-for="OrderItem.IdOrders" class="form-control" asp-items="ViewBag.IdOrders">
+                    <option value="">-- Select Order ID --</option>
+                </select>
+                <span asp-validation-for="OrderItem.IdOrders" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="OrderItem.IdAttractions" class="control-label">Attraction ID</label>
+                <select asp-for="OrderItem.IdAttractions" class="form-control" asp-items="ViewBag.IdAttractions">
+                    <option value="">-- Select Attraction ID --</option>
+                </select>
+                <span asp-validation-for="OrderItem.IdAttractions" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="OrderItem.IdEvents" class="control-label">Event ID</label>
+                <select asp-for="OrderItem.IdEvents" class="form-control" asp-items="ViewBag.IdEvents">
+                    <option value="">-- Select Event ID --</option>
+                </select>
+                <span asp-validation-for="OrderItem.IdEvents" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="OrderItem.IdProducts" class="control-label">Product ID</label>
+                <select asp-for="OrderItem.IdProducts" class="form-control" asp-items="ViewBag.IdProducts">
+                    <option value="">-- Select Product ID --</option>
+                </select>
+                <span asp-validation-for="OrderItem.IdProducts" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="OrderItem.Quantity" class="control-label">Quantity</label>
+                <input asp-for="OrderItem.Quantity" class="form-control" type="number" min="1" required />
+                <span asp-validation-for="OrderItem.Quantity" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="OrderItem.UnitPrice" class="control-label">Unit Price</label>
+                <input asp-for="OrderItem.UnitPrice" class="form-control" type="number" step="0.01" min="0" required />
+                <span asp-validation-for="OrderItem.UnitPrice" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

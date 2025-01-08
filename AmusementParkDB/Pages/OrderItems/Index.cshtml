@@ -1,0 +1,52 @@
+﻿@page
+@model AmusementParkDB.Pages.OrderItems.IndexModel
+
+<p>
+    <a asp-page="Create" class="btn btn-primary">Create New</a>
+</p>
+
+<form method="post" asp-page-handler="DeleteAll">
+    <input type="submit" value="Delete All Records" class="btn deleteAll btn-danger"
+        onclick="return confirm('Are you sure you want to delete all order items?');" />
+</form>
+
+<table class="table table-striped table-bordered">
+    <thead class="thead-dark">
+        <tr>
+            <th>Quantity</th>
+            <th>Unit Price</th>
+            <th>Order ID</th>
+            <th>Attraction ID</th>
+            <th>Event ID</th>
+            <th>Product ID</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.OrderItem != null && Model.OrderItem.Any())
+        {
+            @foreach (var item in Model.OrderItem)
+            {
+                <tr>
+                    <td>@(item.Quantity.ToString() ?? "-")</td>
+                    <td>@(item.UnitPrice.ToString("C") ?? "-")</td>
+                    <td>@(item.IdOrdersNavigation?.Id.ToString() ?? "-")</td>
+                    <td>@(item.IdAttractionsNavigation?.Id.ToString() ?? "-")</td>
+                    <td>@(item.IdEventsNavigation?.Id.ToString() ?? "-")</td>
+                    <td>@(item.IdProductsNavigation?.Id.ToString() ?? "-")</td>
+                    <td>
+                        <a asp-page="./Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning">Edit</a>
+                        <a asp-page="./Details" asp-route-id="@item.Id" class="btn btn-sm btn-info">Details</a>
+                        <a asp-page="./Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="7" class="text-center">No Order Items Found.</td>
+            </tr>
+        }
+    </tbody>
+</table>

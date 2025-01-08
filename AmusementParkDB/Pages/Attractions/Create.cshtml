@@ -1,0 +1,149 @@
+﻿@page
+@model AmusementParkDB.Pages.Attractions.CreateModel
+
+<h4>Create Attraction</h4>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Attraction.IdAttractionCategories" class="control-label">Attraction Category ID</label>
+                <select asp-for="Attraction.IdAttractionCategories" class="form-control"
+                    asp-items="ViewBag.IdAttractionCategories">
+                    <option value="">-- Select Attraction Category ID --</option>
+                </select>
+                <span asp-validation-for="Attraction.IdAttractionCategories" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Attraction.IdUsers" class="control-label">User ID</label>
+                <select asp-for="Attraction.IdUsers" class="form-control" asp-items="ViewBag.IdUsers">
+                    <option value="">-- Select User ID --</option>
+                </select>
+                <span asp-validation-for="Attraction.IdUsers" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Attraction.IdEmployees" class="control-label">Employee ID</label>
+                <select asp-for="Attraction.IdEmployees" class="form-control" asp-items="ViewBag.IdEmployees">
+                    <option value="">-- Select Employee ID --</option>
+                </select>
+                <span asp-validation-for="Attraction.IdEmployees" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Attraction.IdEvents" class="control-label">Event ID</label>
+                <select asp-for="Attraction.IdEvents" class="form-control" asp-items="ViewBag.IdEvents">
+                    <option value="">-- Select Event ID --</option>
+                </select>
+                <span asp-validation-for="Attraction.IdEvents" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Attraction.Name" class="control-label">Attraction Name</label>
+                <input asp-for="Attraction.Name" class="form-control" />
+                <span asp-validation-for="Attraction.Name" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Attraction.Description" class="control-label">Description</label>
+                <textarea asp-for="Attraction.Description" class="form-control"></textarea>
+                <span asp-validation-for="Attraction.Description" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Attraction.Type" class="control-label">Type</label>
+                <input asp-for="Attraction.Type" class="form-control" />
+                <span asp-validation-for="Attraction.Type" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Attraction.Capacity" class="control-label">Capacity</label>
+                <input asp-for="Attraction.Capacity" type="number" min="0" class="form-control" />
+                <span asp-validation-for="Attraction.Capacity" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Attraction.Status" class="control-label">Status</label>
+                <select asp-for="Attraction.Status" class="form-control">
+                    <option value="">-- Select Status --</option>
+                    <option value="Active">Active</option>
+                    <option value="Inactive">Inactive</option>
+                    <option value="Under Maintenance">Under Maintenance</option>
+                </select>
+                <span asp-validation-for="Attraction.Status" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Attraction.OpeningDate" class="control-label">Opening Date</label>
+                <input asp-for="Attraction.OpeningDate" type="date" class="form-control" />
+                <span asp-validation-for="Attraction.OpeningDate" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Attraction.ClosingDate" class="control-label">Closing Date</label>
+                <input asp-for="Attraction.ClosingDate" type="date" class="form-control" />
+                <span asp-validation-for="Attraction.ClosingDate" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Attraction.MaintenanceDate" class="control-label">Maintenance Date</label>
+                <input asp-for="Attraction.MaintenanceDate" type="date" class="form-control" />
+                <span asp-validation-for="Attraction.MaintenanceDate" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Attraction.TicketPrice" class="control-label">Ticket Price</label>
+                <input asp-for="Attraction.TicketPrice" type="number" step="0.01" min="0" class="form-control" />
+                <span asp-validation-for="Attraction.TicketPrice" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Attraction.AvailableSlots" class="control-label">Available Slots</label>
+                <input asp-for="Attraction.AvailableSlots" type="number" min="0" class="form-control" />
+                <span asp-validation-for="Attraction.AvailableSlots" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Attraction.OccupiedSlots" class="control-label">Occupied Slots</label>
+                <input asp-for="Attraction.OccupiedSlots" type="number" min="0" class="form-control" />
+                <span asp-validation-for="Attraction.OccupiedSlots" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Attraction.AgeRestriction" class="control-label">Age Restriction</label>
+                <input asp-for="Attraction.AgeRestriction" type="number" min="0" class="form-control" />
+                <span asp-validation-for="Attraction.AgeRestriction" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Attraction.Supervisor" class="control-label">Supervisor</label>
+                <input asp-for="Attraction.Supervisor" class="form-control" />
+                <span asp-validation-for="Attraction.Supervisor" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Attraction.Location" class="control-label">Location</label>
+                <input asp-for="Attraction.Location" class="form-control" />
+                <span asp-validation-for="Attraction.Location" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

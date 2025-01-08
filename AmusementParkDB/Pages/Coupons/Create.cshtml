@@ -1,0 +1,90 @@
+﻿@page
+@model AmusementParkDB.Pages.Coupons.CreateModel
+
+<h4>Create Coupon</h4>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Coupon.IdUsers" class="control-label">User ID</label>
+                <select asp-for="Coupon.IdUsers" class="form-control" asp-items="ViewBag.IdUsers">
+                    <option value="">-- Select User ID --</option>
+                </select>
+                <span asp-validation-for="Coupon.IdUsers" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Coupon.IdStores" class="control-label">Store ID</label>
+                <select asp-for="Coupon.IdStores" class="form-control" asp-items="ViewBag.IdStores">
+                    <option value="">-- Select Store ID --</option>
+                </select>
+                <span asp-validation-for="Coupon.IdStores" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Coupon.Code" class="control-label">Coupon Code</label>
+                <input asp-for="Coupon.Code" class="form-control" />
+                <span asp-validation-for="Coupon.Code" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Coupon.ExpiryDate" class="control-label">Expiry Date</label>
+                <input asp-for="Coupon.ExpiryDate" type="date" class="form-control" />
+                <span asp-validation-for="Coupon.ExpiryDate" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Coupon.DiscountPercentage" class="control-label">Discount Percentage (%)</label>
+                <input asp-for="Coupon.DiscountPercentage" type="number" min="0" max="100" step="0.01"
+                    class="form-control" />
+                <span asp-validation-for="Coupon.DiscountPercentage" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Coupon.DiscountAmount" class="control-label">Discount Amount</label>
+                <input asp-for="Coupon.DiscountAmount" type="number" min="0" step="0.01" class="form-control" />
+                <span asp-validation-for="Coupon.DiscountAmount" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Coupon.SingleUse" class="control-label">Single Use</label>
+                <select asp-for="Coupon.SingleUse" class="form-control">
+                    <option value="">-- Select --</option>
+                    <option value="Yes">Yes</option>
+                    <option value="No">No</option>
+                </select>
+                <span asp-validation-for="Coupon.SingleUse" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Coupon.ApplicableAttractions" class="control-label">Applicable Attractions</label>
+                <input asp-for="Coupon.ApplicableAttractions" class="form-control" />
+                <span asp-validation-for="Coupon.ApplicableAttractions" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Coupon.ApplicableEvents" class="control-label">Applicable Events</label>
+                <input asp-for="Coupon.ApplicableEvents" class="form-control" />
+                <span asp-validation-for="Coupon.ApplicableEvents" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

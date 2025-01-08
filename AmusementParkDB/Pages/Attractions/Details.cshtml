@@ -1,0 +1,68 @@
+﻿@page
+@model AmusementParkDB.Pages.Attractions.DetailsModel
+
+<div>
+    <h4>Attraction</h4>
+    <hr />
+
+    <dl class="row">
+        <dt class="col-sm-2">Attraction Name</dt>
+        <dd class="col-sm-10">@(Model.Attraction.Name ?? "-")</dd>
+
+        <dt class="col-sm-2">Description</dt>
+        <dd class="col-sm-10">@(Model.Attraction.Description ?? "-")</dd>
+
+        <dt class="col-sm-2">Type</dt>
+        <dd class="col-sm-10">@(Model.Attraction.Type ?? "-")</dd>
+
+        <dt class="col-sm-2">Capacity</dt>
+        <dd class="col-sm-10">@(Model.Attraction.Capacity?.ToString() ?? "-")</dd>
+
+        <dt class="col-sm-2">Status</dt>
+        <dd class="col-sm-10">@(Model.Attraction.Status ?? "-")</dd>
+
+        <dt class="col-sm-2">Opening Date</dt>
+        <dd class="col-sm-10">@(Model.Attraction.OpeningDate?.ToString("yyyy-MM-dd") ?? "-")</dd>
+
+        <dt class="col-sm-2">Closing Date</dt>
+        <dd class="col-sm-10">@(Model.Attraction.ClosingDate?.ToString("yyyy-MM-dd") ?? "-")</dd>
+
+        <dt class="col-sm-2">Maintenance Date</dt>
+        <dd class="col-sm-10">@(Model.Attraction.MaintenanceDate?.ToString("yyyy-MM-dd") ?? "-")</dd>
+
+        <dt class="col-sm-2">Ticket Price</dt>
+        <dd class="col-sm-10">@(Model.Attraction.TicketPrice?.ToString("C") ?? "-")</dd>
+
+        <dt class="col-sm-2">Available Slots</dt>
+        <dd class="col-sm-10">@(Model.Attraction.AvailableSlots?.ToString() ?? "-")</dd>
+
+        <dt class="col-sm-2">Occupied Slots</dt>
+        <dd class="col-sm-10">@(Model.Attraction.OccupiedSlots?.ToString() ?? "-")</dd>
+
+        <dt class="col-sm-2">Age Restriction</dt>
+        <dd class="col-sm-10">@(Model.Attraction.AgeRestriction?.ToString() ?? "-")</dd>
+
+        <dt class="col-sm-2">Supervisor</dt>
+        <dd class="col-sm-10">@(Model.Attraction.Supervisor ?? "-")</dd>
+
+        <dt class="col-sm-2">Location</dt>
+        <dd class="col-sm-10">@(Model.Attraction.Location ?? "-")</dd>
+
+        <dt class="col-sm-2">Attraction Category ID</dt>
+        <dd class="col-sm-10">@(Model.Attraction.IdAttractionCategoriesNavigation?.Id.ToString() ?? "-")</dd>
+
+        <dt class="col-sm-2">Employee ID</dt>
+        <dd class="col-sm-10">@(Model.Attraction.IdEmployeesNavigation?.Id.ToString() ?? "-")</dd>
+
+        <dt class="col-sm-2">Event ID</dt>
+        <dd class="col-sm-10">@(Model.Attraction.IdEventsNavigation?.Id.ToString() ?? "-")</dd>
+
+        <dt class="col-sm-2">User ID</dt>
+        <dd class="col-sm-10">@(Model.Attraction.IdUsersNavigation?.Id.ToString() ?? "-")</dd>
+    </dl>
+</div>
+
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.Attraction.Id">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>

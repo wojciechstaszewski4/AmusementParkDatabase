@@ -1,0 +1,20 @@
+﻿@page
+@model AmusementParkDB.Pages.ACL.DetailsModel
+
+<div>
+    <h4>ACL</h4>
+    <hr />
+
+    <dl class="row">
+        <dt class="col-sm-2">ACL</dt>
+        <dd class="col-sm-10">@(Model.Acl.Acl1 ?? "-")</dd>
+
+        <dt class="col-sm-2">User ID</dt>
+        <dd class="col-sm-10">@(Model.Acl.IdUsersNavigation?.Id.ToString() ?? "-")</dd>
+    </dl>
+</div>
+
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.Acl.Id">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>

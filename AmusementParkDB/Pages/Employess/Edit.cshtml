@@ -1,0 +1,104 @@
+﻿@page
+@model AmusementParkDB.Pages.Employess.EditModel
+
+<h4>Edit Employee</h4>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Employee.Id" />
+
+            <div class="form-group">
+                <label asp-for="Employee.IdUsers" class="control-label">User ID</label>
+                <select asp-for="Employee.IdUsers" class="form-control" asp-items="ViewBag.IdUsers">
+                    <option value="">-- Select User ID --</option>
+                </select>
+                <span asp-validation-for="Employee.IdUsers" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Employee.IdDepartments" class="control-label">Department ID</label>
+                <select asp-for="Employee.IdDepartments" class="form-control" asp-items="ViewBag.IdDepartments">
+                    <option value="">-- Select Department ID --</option>
+                </select>
+                <span asp-validation-for="Employee.IdDepartments" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Employee.JobTitle" class="control-label">Job Title</label>
+                <input asp-for="Employee.JobTitle" class="form-control" />
+                <span asp-validation-for="Employee.JobTitle" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Employee.Salary" class="control-label">Salary</label>
+                <input asp-for="Employee.Salary" type="number" step="0.01" min="0" class="form-control" />
+                <span asp-validation-for="Employee.Salary" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Employee.EmploymentDate" class="control-label">Employment Date</label>
+                <input asp-for="Employee.EmploymentDate" type="date" class="form-control" />
+                <span asp-validation-for="Employee.EmploymentDate" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Employee.TerminationDate" class="control-label">Termination Date</label>
+                <input asp-for="Employee.TerminationDate" type="date" class="form-control" />
+                <span asp-validation-for="Employee.TerminationDate" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Employee.Status" class="control-label">Status</label>
+                <select asp-for="Employee.Status" class="form-control">
+                    <option value="">-- Select Status --</option>
+                    <option value="Active">Active</option>
+                    <option value="Inactive">Inactive</option>
+                    <option value="Resigned">Resigned</option>
+                    <option value="Retired">Retired</option>
+                </select>
+                <span asp-validation-for="Employee.Status" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Employee.EmergencyContact" class="control-label">Emergency Contact</label>
+                <input asp-for="Employee.EmergencyContact" class="form-control" />
+                <span asp-validation-for="Employee.EmergencyContact" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Employee.Rating" class="control-label">Rating</label>
+                <input asp-for="Employee.Rating" class="form-control" type="number" step="0.1" min="0" max="5" />
+                <span asp-validation-for="Employee.Rating" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Employee.Comment" class="control-label">Comment</label>
+                <textarea asp-for="Employee.Comment" class="form-control"></textarea>
+                <span asp-validation-for="Employee.Comment" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Employee.Date" class="control-label">Date</label>
+                <input asp-for="Employee.Date" type="datetime-local" class="form-control" />
+                <span asp-validation-for="Employee.Date" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
