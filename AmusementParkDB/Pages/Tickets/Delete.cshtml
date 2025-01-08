@@ -1,0 +1,44 @@
+﻿@page
+@model AmusementParkDB.Pages.Tickets.DeleteModel
+
+<h3>Are you sure you want to delete this?</h3>
+
+<div>
+    <h4>Ticket</h4>
+    <hr />
+
+    <dl class="row">
+        <dt class="col-sm-2">Ticket Number</dt>
+        <dd class="col-sm-10">@(Model.Ticket.TicketNumber ?? "-")</dd>
+
+        <dt class="col-sm-2">Purchase Date</dt>
+        <dd class="col-sm-10">@(Model.Ticket.PurchaseDate.ToString("yyyy-MM-dd") ?? "-")</dd>
+
+        <dt class="col-sm-2">Expiry Date</dt>
+        <dd class="col-sm-10">@(Model.Ticket.ExpiryDate?.ToString("yyyy-MM-dd") ?? "-")</dd>
+
+        <dt class="col-sm-2">Status</dt>
+        <dd class="col-sm-10">@(Model.Ticket.Status ?? "-")</dd>
+
+        <dt class="col-sm-2">Price</dt>
+        <dd class="col-sm-10">@(Model.Ticket.Price.ToString("C") ?? "-")</dd>
+
+        <dt class="col-sm-2">Ticket Type</dt>
+        <dd class="col-sm-10">@(Model.Ticket.TicketType ?? "-")</dd>
+
+        <dt class="col-sm-2">Attraction ID</dt>
+        <dd class="col-sm-10">@(Model.Ticket.IdAttractionsNavigation?.Id.ToString() ?? "-")</dd>
+
+        <dt class="col-sm-2">Event ID</dt>
+        <dd class="col-sm-10">@(Model.Ticket.IdEventsNavigation?.Id.ToString() ?? "-")</dd>
+
+        <dt class="col-sm-2">User ID</dt>
+        <dd class="col-sm-10">@(Model.Ticket.IdUsersNavigation?.Id.ToString() ?? "-")</dd>
+    </dl>
+
+    <form method="post">
+        <input type="hidden" asp-for="Ticket.Id" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-page="./Index">Back to List</a>
+    </form>
+</div>

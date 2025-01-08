@@ -1,0 +1,55 @@
+﻿@page
+@model AmusementParkDB.Pages.Orders.CreateModel
+
+<h4>Create Order</h4>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Order.IdUsers" class="control-label">User ID</label>
+                <select asp-for="Order.IdUsers" class="form-control" asp-items="ViewBag.IdUsers">
+                    <option value="">-- Select User ID --</option>
+                </select>
+                <span asp-validation-for="Order.IdUsers" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Order.TotalPrice" class="control-label">Total Price</label>
+                <input asp-for="Order.TotalPrice" class="form-control" type="number" step="0.01" min="0" required />
+                <span asp-validation-for="Order.TotalPrice" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Order.Status" class="control-label">Status</label>
+                <select asp-for="Order.Status" class="form-control">
+                    <option value="">-- Select Status --</option>
+                    <option value="Pending">Pending</option>
+                    <option value="Confirmed">Confirmed</option>
+                    <option value="Cancelled">Cancelled</option>
+                    <option value="Shipped">Shipped</option>
+                    <option value="Delivered">Delivered</option>
+                    <option value="Returned">Returned</option>
+                </select>
+                <span asp-validation-for="Order.Status" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

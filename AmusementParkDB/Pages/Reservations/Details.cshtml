@@ -1,0 +1,41 @@
+﻿@page
+@model AmusementParkDB.Pages.Reservations.DetailsModel
+
+<div>
+    <h4>Reservation</h4>
+    <hr />
+
+    <dl class="row">
+        <dt class="col-sm-2">Reservation Date</dt>
+        <dd class="col-sm-10">@(Model.Reservation.ReservationDate.ToString("yyyy-MM-dd") ?? "-")</dd>
+
+        <dt class="col-sm-2">Status</dt>
+        <dd class="col-sm-10">@(Model.Reservation.Status ?? "-")</dd>
+
+        <dt class="col-sm-2">Total Cost</dt>
+        <dd class="col-sm-10">@(Model.Reservation.TotalCost.ToString("C") ?? "-")</dd>
+
+        <dt class="col-sm-2">Number of People</dt>
+        <dd class="col-sm-10">@(Model.Reservation.NumberOfPeople.ToString() ?? "-")</dd>
+
+        <dt class="col-sm-2">Special Request</dt>
+        <dd class="col-sm-10">@(Model.Reservation.SpecialRequest ?? "-")</dd>
+
+        <dt class="col-sm-2">Reservation Code</dt>
+        <dd class="col-sm-10">@(Model.Reservation.ReservationCode ?? "-")</dd>
+
+        <dt class="col-sm-2">Attraction ID</dt>
+        <dd class="col-sm-10">@(Model.Reservation.IdAttractionsNavigation?.Id.ToString() ?? "-")</dd>
+
+        <dt class="col-sm-2">Event ID</dt>
+        <dd class="col-sm-10">@(Model.Reservation.IdEventsNavigation?.Id.ToString() ?? "-")</dd>
+
+        <dt class="col-sm-2">User ID</dt>
+        <dd class="col-sm-10">@(Model.Reservation.IdUsersNavigation?.Id.ToString() ?? "-")</dd>
+    </dl>
+</div>
+
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.Reservation.Id">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>

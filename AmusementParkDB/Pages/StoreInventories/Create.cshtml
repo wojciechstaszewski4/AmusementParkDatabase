@@ -1,0 +1,49 @@
+﻿@page
+@model AmusementParkDB.Pages.StoreInventories.CreateModel
+
+<h4>Create Store Inventory</h4>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="StoreInventory.IdStores" class="control-label">Store ID</label>
+                <select asp-for="StoreInventory.IdStores" class="form-control" asp-items="ViewBag.IdStores">
+                    <option value="">-- Select Store ID --</option>
+                </select>
+                <span asp-validation-for="StoreInventory.IdStores" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="StoreInventory.IdProducts" class="control-label">Product ID</label>
+                <select asp-for="StoreInventory.IdProducts" class="form-control" asp-items="ViewBag.IdProducts">
+                    <option value="">-- Select Product ID --</option>
+                </select>
+                <span asp-validation-for="StoreInventory.IdProducts" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="StoreInventory.QuantityInStock" class="control-label">Quantity In Stock</label>
+                <input asp-for="StoreInventory.QuantityInStock" class="form-control" type="number" min="0" />
+                <span asp-validation-for="StoreInventory.QuantityInStock" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

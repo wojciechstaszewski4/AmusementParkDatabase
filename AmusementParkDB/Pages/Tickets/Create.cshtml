@@ -1,0 +1,92 @@
+﻿@page
+@model AmusementParkDB.Pages.Tickets.CreateModel
+
+<h4>Create Ticket</h4>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Ticket.IdUsers" class="control-label">User ID</label>
+                <select asp-for="Ticket.IdUsers" class="form-control" asp-items="ViewBag.IdUsers">
+                    <option value="">-- Select User ID --</option>
+                </select>
+                <span asp-validation-for="Ticket.IdUsers" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Ticket.IdAttractions" class="control-label">Attraction ID</label>
+                <select asp-for="Ticket.IdAttractions" class="form-control" asp-items="ViewBag.IdAttractions">
+                    <option value="">-- Select Attraction ID --</option>
+                </select>
+                <span asp-validation-for="Ticket.IdAttractions" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Ticket.IdEvents" class="control-label">Event ID</label>
+                <select asp-for="Ticket.IdEvents" class="form-control" asp-items="ViewBag.IdEvents">
+                    <option value="">-- Select Event ID --</option>
+                </select>
+                <span asp-validation-for="Ticket.IdEvents" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Ticket.TicketNumber" class="control-label">Ticket Number</label>
+                <input asp-for="Ticket.TicketNumber" class="form-control" />
+                <span asp-validation-for="Ticket.TicketNumber" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Ticket.PurchaseDate" class="control-label">Purchase Date</label>
+                <input asp-for="Ticket.PurchaseDate" type="date" class="form-control" />
+                <span asp-validation-for="Ticket.PurchaseDate" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Ticket.ExpiryDate" class="control-label">Expiry Date</label>
+                <input asp-for="Ticket.ExpiryDate" type="date" class="form-control" />
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Ticket.Status" class="control-label">Status</label>
+                <select asp-for="Ticket.Status" class="form-control">
+                    <option value="">-- Select Status --</option>
+                    <option value="Active">Active</option>
+                    <option value="Used">Used</option>
+                    <option value="Expired">Expired</option>
+                    <option value="Cancelled">Cancelled</option>
+                </select>
+                <span asp-validation-for="Ticket.Status" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Ticket.Price" class="control-label">Price</label>
+                <input asp-for="Ticket.Price" class="form-control" type="number" min="0" step="0.01" />
+                <span asp-validation-for="Ticket.Price" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Ticket.TicketType" class="control-label">Ticket Type</label>
+                <input asp-for="Ticket.TicketType" class="form-control" />
+                <span asp-validation-for="Ticket.TicketType" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

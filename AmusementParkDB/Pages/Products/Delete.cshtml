@@ -1,0 +1,35 @@
+﻿@page
+@model AmusementParkDB.Pages.Products.DeleteModel
+
+<h3>Are you sure you want to delete this product?</h3>
+
+<div>
+    <h4>Product</h4>
+    <hr />
+
+    <dl class="row">
+        <dt class="col-sm-2">Product Name</dt>
+        <dd class="col-sm-10">@(Model.Product.Name ?? "-")</dd>
+
+        <dt class="col-sm-2">Description</dt>
+        <dd class="col-sm-10">@(Model.Product.Description ?? "-")</dd>
+
+        <dt class="col-sm-2">Price</dt>
+        <dd class="col-sm-10">@(Model.Product.Price.ToString("C") ?? "-")</dd>
+
+        <dt class="col-sm-2">Stock Quantity</dt>
+        <dd class="col-sm-10">@(Model.Product.StockQuantity.ToString() ?? "-")</dd>
+
+        <dt class="col-sm-2">Status</dt>
+        <dd class="col-sm-10">@(Model.Product.Status ?? "-")</dd>
+
+        <dt class="col-sm-2">Rating</dt>
+        <dd class="col-sm-10">@(Model.Product.Rating?.ToString("0.0") ?? "-")</dd>
+    </dl>
+
+    <form method="post">
+        <input type="hidden" asp-for="Product.Id" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-page="./Index">Back to List</a>
+    </form>
+</div>

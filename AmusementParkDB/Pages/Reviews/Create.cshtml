@@ -1,0 +1,104 @@
+﻿@page
+@model AmusementParkDB.Pages.Reviews.CreateModel
+
+<h4>Create Review</h4>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Review.IdUsers" class="control-label">User ID</label>
+                <select asp-for="Review.IdUsers" class="form-control" asp-items="ViewBag.IdUsers">
+                    <option value="">-- Select User ID --</option>
+                </select>
+                <span asp-validation-for="Review.IdUsers" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Review.IdEmployees" class="control-label">Employee ID</label>
+                <select asp-for="Review.IdEmployees" class="form-control" asp-items="ViewBag.IdEmployees">
+                    <option value="">-- Select Employee ID --</option>
+                </select>
+                <span asp-validation-for="Review.IdEmployees" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Review.IdAttractions" class="control-label">Attraction ID</label>
+                <select asp-for="Review.IdAttractions" class="form-control" asp-items="ViewBag.IdAttractions">
+                    <option value="">-- Select Attraction ID --</option>
+                </select>
+                <span asp-validation-for="Review.IdAttractions" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Review.IdProducts" class="control-label">Product ID</label>
+                <select asp-for="Review.IdProducts" class="form-control" asp-items="ViewBag.IdProducts">
+                    <option value="">-- Select Product ID --</option>
+                </select>
+                <span asp-validation-for="Review.IdProducts" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Review.IdStores" class="control-label">Store ID</label>
+                <select asp-for="Review.IdStores" class="form-control" asp-items="ViewBag.IdStores">
+                    <option value="">-- Select Store ID --</option>
+                </select>
+                <span asp-validation-for="Review.IdStores" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Review.Rating" class="control-label">Rating</label>
+                <input asp-for="Review.Rating" class="form-control" type="number" step="0.1" min="0" max="5" />
+                <span asp-validation-for="Review.Rating" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Review.Comment" class="control-label">Comment</label>
+                <textarea asp-for="Review.Comment" class="form-control"></textarea>
+                <span asp-validation-for="Review.Comment" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Review.Date" class="control-label">Date</label>
+                <input asp-for="Review.Date" class="form-control" type="datetime-local" />
+                <span asp-validation-for="Review.Date" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Review.UserRating" class="control-label">User Rating</label>
+                <input asp-for="Review.UserRating" class="form-control" type="number" step="0.1" min="0" max="5" />
+                <span asp-validation-for="Review.UserRating" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Review.StaffRating" class="control-label">Staff Rating</label>
+                <input asp-for="Review.StaffRating" class="form-control" type="number" step="0.1" min="0" max="5" />
+                <span asp-validation-for="Review.StaffRating" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Review.CleanlinessRating" class="control-label">Cleanliness Rating</label>
+                <input asp-for="Review.CleanlinessRating" class="form-control" type="number" step="0.1" min="0"
+                    max="5" />
+                <span asp-validation-for="Review.CleanlinessRating" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

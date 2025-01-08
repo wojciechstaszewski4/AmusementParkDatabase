@@ -1,0 +1,72 @@
+﻿@page
+@model AmusementParkDB.Pages.Stores.EditModel
+
+<h4>Edit Store</h4>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Store.Id" />
+
+            <div class="form-group">
+                <label asp-for="Store.IdEmployees" class="control-label">Employee ID</label>
+                <select asp-for="Store.IdEmployees" class="form-control" asp-items="ViewBag.IdEmployees">
+                    <option value="">-- Select Employee ID --</option>
+                </select>
+                <span asp-validation-for="Store.IdEmployees" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Store.Name" class="control-label">Store Name</label>
+                <input asp-for="Store.Name" class="form-control" />
+                <span asp-validation-for="Store.Name" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Store.Location" class="control-label">Location</label>
+                <input asp-for="Store.Location" class="form-control" />
+                <span asp-validation-for="Store.Location" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Store.OpeningHours" class="control-label">Opening Hours</label>
+                <input asp-for="Store.OpeningHours" class="form-control" />
+                <span asp-validation-for="Store.OpeningHours" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Store.ContactInformation" class="control-label">Contact Information</label>
+                <input asp-for="Store.ContactInformation" class="form-control" />
+                <span asp-validation-for="Store.ContactInformation" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Store.Supervisor" class="control-label">Supervisor</label>
+                <input asp-for="Store.Supervisor" class="form-control" />
+                <span asp-validation-for="Store.Supervisor" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Store.Rating" class="control-label">Rating</label>
+                <input asp-for="Store.Rating" type="number" step="0.1" min="0" max="5" class="form-control" />
+                <span asp-validation-for="Store.Rating" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

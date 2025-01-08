@@ -1,0 +1,56 @@
+﻿@page
+@model AmusementParkDB.Pages.Users.DetailsModel
+
+<div>
+    <h4>User</h4>
+    <hr />
+
+    <dl class="row">
+        <dt class="col-sm-2">Name</dt>
+        <dd class="col-sm-10">@(Model.User.Name ?? "-")</dd>
+
+        <dt class="col-sm-2">Surname</dt>
+        <dd class="col-sm-10">@(Model.User.Surname ?? "-")</dd>
+
+        <dt class="col-sm-2">Address</dt>
+        <dd class="col-sm-10">@(Model.User.Address ?? "-")</dd>
+
+        <dt class="col-sm-2">Postal Code</dt>
+        <dd class="col-sm-10">@(Model.User.PostalCode ?? "-")</dd>
+
+        <dt class="col-sm-2">City</dt>
+        <dd class="col-sm-10">@(Model.User.City ?? "-")</dd>
+
+        <dt class="col-sm-2">Phone Number</dt>
+        <dd class="col-sm-10">@(Model.User.PhoneNumber ?? "-")</dd>
+
+        <dt class="col-sm-2">Email</dt>
+        <dd class="col-sm-10">@(Model.User.Email ?? "-")</dd>
+
+        <dt class="col-sm-2">Birth Date</dt>
+        <dd class="col-sm-10">@(Model.User.BirthDate?.ToString("yyyy-MM-dd") ?? "-")</dd>
+
+        <dt class="col-sm-2">Gender</dt>
+        <dd class="col-sm-10">@(Model.User.Gender ?? "-")</dd>
+
+        <dt class="col-sm-2">Login</dt>
+        <dd class="col-sm-10">@(Model.User.Login ?? "-")</dd>
+
+        <dt class="col-sm-2">Password</dt>
+        <dd class="col-sm-10">@(Model.User.Password ?? "-")</dd>
+
+        <dt class="col-sm-2">Add Date</dt>
+        <dd class="col-sm-10">@(Model.User.AddDate.ToString("yyyy-MM-dd HH:mm:ss") ?? "-")</dd>
+
+        <dt class="col-sm-2">Last Login Date</dt>
+        <dd class="col-sm-10">@(Model.User.LastLoginDate?.ToString("yyyy-MM-dd HH:mm:ss") ?? "-")</dd>
+
+        <dt class="col-sm-2">Status</dt>
+        <dd class="col-sm-10">@(Model.User.Status ?? "-")</dd>
+    </dl>
+</div>
+
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.User.Id">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>

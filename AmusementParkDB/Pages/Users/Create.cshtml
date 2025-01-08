@@ -1,0 +1,121 @@
+﻿@page
+@model AmusementParkDB.Pages.Users.CreateModel
+
+<h4>Create User</h4>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="User.Name" class="control-label">Name</label>
+                <input asp-for="User.Name" class="form-control" required />
+                <span asp-validation-for="User.Name" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="User.Surname" class="control-label">Surname</label>
+                <input asp-for="User.Surname" class="form-control" required />
+                <span asp-validation-for="User.Surname" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="User.Address" class="control-label">Address</label>
+                <input asp-for="User.Address" class="form-control" />
+                <span asp-validation-for="User.Address" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="User.PostalCode" class="control-label">Postal Code</label>
+                <input asp-for="User.PostalCode" class="form-control" />
+                <span asp-validation-for="User.PostalCode" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="User.City" class="control-label">City</label>
+                <input asp-for="User.City" class="form-control" />
+                <span asp-validation-for="User.City" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="User.PhoneNumber" class="control-label">Phone Number</label>
+                <input asp-for="User.PhoneNumber" class="form-control" />
+                <span asp-validation-for="User.PhoneNumber" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="User.Email" class="control-label">Email</label>
+                <input asp-for="User.Email" class="form-control" type="email" />
+                <span asp-validation-for="User.Email" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="User.BirthDate" class="control-label">Birth Date</label>
+                <input asp-for="User.BirthDate" class="form-control" type="date" />
+                <span asp-validation-for="User.BirthDate" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="User.Gender" class="control-label">Gender</label>
+                <select asp-for="User.Gender" class="form-control">
+                    <option value="">-- Select Gender --</option>
+                    <option value="Male">Male</option>
+                    <option value="Female">Female</option>
+                    <option value="Other">Other</option>
+                </select>
+                <span asp-validation-for="User.Gender" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="User.Login" class="control-label">Login</label>
+                <input asp-for="User.Login" class="form-control" required />
+                <span asp-validation-for="User.Login" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="User.Password" class="control-label">Password</label>
+                <input asp-for="User.Password" class="form-control" required />
+                <span asp-validation-for="User.Password" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+
+                <label asp-for="User.AddDate" class="control-label">Add Date</label>
+                <input asp-for="User.AddDate" class="form-control" type="datetime-local" />
+                <span asp-validation-for="User.AddDate" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="User.LastLoginDate" class="control-label">Last Login Date</label>
+                <input asp-for="User.LastLoginDate" class="form-control" type="datetime-local" />
+                <span asp-validation-for="User.LastLoginDate" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="User.Status" class="control-label">Status</label>
+                <select asp-for="User.Status" class="form-control">
+                    <option value="">-- Select Status --</option>
+                    <option value="Active">Active</option>
+                    <option value="Inactive">Inactive</option>
+                </select>
+                <span asp-validation-for="User.Status" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

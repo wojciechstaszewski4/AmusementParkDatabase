@@ -1,0 +1,93 @@
+﻿@page
+@model AmusementParkDB.Pages.Reservations.EditModel
+
+<h4>Edit Reservation</h4>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Reservation.Id" />
+
+            <div class="form-group">
+                <label asp-for="Reservation.IdUsers" class="control-label">User ID</label>
+                <select asp-for="Reservation.IdUsers" class="form-control" asp-items="ViewBag.IdUsers">
+                    <option value="">-- Select User ID --</option>
+                </select>
+                <span asp-validation-for="Reservation.IdUsers" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Reservation.IdAttractions" class="control-label">Attraction ID</label>
+                <select asp-for="Reservation.IdAttractions" class="form-control" asp-items="ViewBag.IdAttractions">
+                    <option value="">-- Select Attraction ID --</option>
+                </select>
+                <span asp-validation-for="Reservation.IdAttractions" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Reservation.IdEvents" class="control-label">Event ID</label>
+                <select asp-for="Reservation.IdEvents" class="form-control" asp-items="ViewBag.IdEvents">
+                    <option value="">-- Select Event ID --</option>
+                </select>
+                <span asp-validation-for="Reservation.IdEvents" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Reservation.ReservationDate" class="control-label">Reservation Date</label>
+                <input asp-for="Reservation.ReservationDate" class="form-control" type="date" />
+                <span asp-validation-for="Reservation.ReservationDate" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Reservation.Status" class="control-label">Status</label>
+                <select asp-for="Reservation.Status" class="form-control">
+                    <option value="">-- Select Status --</option>
+                    <option value="Pending">Pending</option>
+                    <option value="Confirmed">Confirmed</option>
+                    <option value="Cancelled">Cancelled</option>
+                </select>
+                <span asp-validation-for="Reservation.Status" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Reservation.TotalCost" class="control-label">Total Cost</label>
+                <input asp-for="Reservation.TotalCost" class="form-control" type="number" step="0.01" min="0" />
+                <span asp-validation-for="Reservation.TotalCost" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Reservation.NumberOfPeople" class="control-label">Number of People</label>
+                <input asp-for="Reservation.NumberOfPeople" class="form-control" type="number" />
+                <span asp-validation-for="Reservation.NumberOfPeople" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Reservation.SpecialRequest" class="control-label">Special Request</label>
+                <textarea asp-for="Reservation.SpecialRequest" class="form-control"></textarea>
+                <span asp-validation-for="Reservation.SpecialRequest" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Reservation.ReservationCode" class="control-label">Reservation Code</label>
+                <input asp-for="Reservation.ReservationCode" class="form-control" />
+                <span asp-validation-for="Reservation.ReservationCode" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

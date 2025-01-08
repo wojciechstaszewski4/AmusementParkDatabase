@@ -1,0 +1,23 @@
+﻿@page
+@model AmusementParkDB.Pages.StoreInventories.DetailsModel
+
+<div>
+    <h4>Store Inventory</h4>
+    <hr />
+
+    <dl class="row">
+        <dt class="col-sm-2">Quantity In Stock</dt>
+        <dd class="col-sm-10">@(Model.StoreInventory.QuantityInStock?.ToString() ?? "-")</dd>
+
+        <dt class="col-sm-2">Product ID</dt>
+        <dd class="col-sm-10">@(Model.StoreInventory.IdProductsNavigation?.Id.ToString() ?? "-")</dd>
+
+        <dt class="col-sm-2">Store ID</dt>
+        <dd class="col-sm-10">@(Model.StoreInventory.IdStoresNavigation?.Id.ToString() ?? "-")</dd>
+    </dl>
+</div>
+
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.StoreInventory.Id">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>

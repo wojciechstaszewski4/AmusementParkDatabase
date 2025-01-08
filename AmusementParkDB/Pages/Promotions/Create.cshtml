@@ -1,0 +1,108 @@
+﻿@page
+@model AmusementParkDB.Pages.Promotions.CreateModel
+
+<h4>Create Promotion</h4>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Promotion.IdAttractions" class="control-label">Attraction ID</label>
+                <select asp-for="Promotion.IdAttractions" class="form-control" asp-items="ViewBag.IdAttractions">
+                    <option value="">-- Select Attraction ID --</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Promotion.IdEvents" class="control-label">Event ID</label>
+                <select asp-for="Promotion.IdEvents" class="form-control" asp-items="ViewBag.IdEvents">
+                    <option value="">-- Select Event ID --</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Promotion.IdProducts" class="control-label">Product ID</label>
+                <select asp-for="Promotion.IdProducts" class="form-control" asp-items="ViewBag.IdProducts">
+                    <option value="">-- Select Product ID --</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Promotion.Name" class="control-label">Promotion Name</label>
+                <input asp-for="Promotion.Name" class="form-control" required />
+                <span asp-validation-for="Promotion.Name" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Promotion.Description" class="control-label">Description</label>
+                <textarea asp-for="Promotion.Description" class="form-control"></textarea>
+                <span asp-validation-for="Promotion.Description" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Promotion.StartDate" class="control-label">Start Date</label>
+                <input asp-for="Promotion.StartDate" class="form-control" type="datetime-local" required />
+                <span asp-validation-for="Promotion.StartDate" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Promotion.EndDate" class="control-label">End Date</label>
+                <input asp-for="Promotion.EndDate" class="form-control" type="datetime-local" required />
+                <span asp-validation-for="Promotion.EndDate" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Promotion.DiscountPercentage" class="control-label">Discount Percentage (%)</label>
+                <input asp-for="Promotion.DiscountPercentage" type="number" min="0" max="100" step="0.01"
+                    class="form-control" />
+                <span asp-validation-for="Promotion.DiscountPercentage" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Promotion.DiscountAmount" class="control-label">Discount Amount</label>
+                <input asp-for="Promotion.DiscountAmount" type="number" min="0" step="0.01" class="form-control" />
+                <span asp-validation-for="Promotion.DiscountAmount" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Promotion.ApplicableAttractions" class="control-label">Applicable Attractions</label>
+                <input asp-for="Promotion.ApplicableAttractions" class="form-control" />
+                <span asp-validation-for="Promotion.ApplicableAttractions" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Promotion.ApplicableEvents" class="control-label">Applicable Events</label>
+                <input asp-for="Promotion.ApplicableEvents" class="form-control" />
+                <span asp-validation-for="Promotion.ApplicableEvents" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Promotion.Status" class="control-label">Status</label>
+                <select asp-for="Promotion.Status" class="form-control">
+                    <option value="">-- Select Status --</option>
+                    <option value="Active">Active</option>
+                    <option value="Inactive">Inactive</option>
+                    <option value="Expired">Expired</option>
+                </select>
+                <span asp-validation-for="Promotion.Status" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

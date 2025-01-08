@@ -1,0 +1,32 @@
+﻿@page
+@model AmusementParkDB.Pages.Products.DetailsModel
+
+<div>
+    <h4>Product</h4>
+    <hr />
+
+    <dl class="row">
+        <dt class="col-sm-2">Product Name</dt>
+        <dd class="col-sm-10">@(Model.Product.Name ?? "-")</dd>
+
+        <dt class="col-sm-2">Description</dt>
+        <dd class="col-sm-10">@(Model.Product.Description ?? "-")</dd>
+
+        <dt class="col-sm-2">Price</dt>
+        <dd class="col-sm-10">@(Model.Product.Price.ToString("C") ?? "-")</dd>
+
+        <dt class="col-sm-2">Stock Quantity</dt>
+        <dd class="col-sm-10">@(Model.Product.StockQuantity.ToString() ?? "-")</dd>
+
+        <dt class="col-sm-2">Status</dt>
+        <dd class="col-sm-10">@(Model.Product.Status ?? "-")</dd>
+
+        <dt class="col-sm-2">Rating</dt>
+        <dd class="col-sm-10">@(Model.Product.Rating?.ToString("0.0") ?? "-")</dd>
+    </dl>
+</div>
+
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.Product.Id">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>
