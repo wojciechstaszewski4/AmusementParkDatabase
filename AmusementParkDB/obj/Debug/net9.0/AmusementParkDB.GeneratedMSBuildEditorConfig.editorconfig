@@ -1,0 +1,417 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AmusementParkDB
+build_property.RootNamespace = AmusementParkDB
+build_property.ProjectDir = C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/ACL/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQUNMXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/ACL/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQUNMXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/ACL/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQUNMXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/ACL/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQUNMXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/ACL/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQUNMXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Agreements/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWdyZWVtZW50c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Agreements/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWdyZWVtZW50c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Agreements/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWdyZWVtZW50c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Agreements/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWdyZWVtZW50c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Agreements/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWdyZWVtZW50c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/AttractionCategories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXR0cmFjdGlvbkNhdGVnb3JpZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/AttractionCategories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXR0cmFjdGlvbkNhdGVnb3JpZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/AttractionCategories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXR0cmFjdGlvbkNhdGVnb3JpZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/AttractionCategories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXR0cmFjdGlvbkNhdGVnb3JpZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/AttractionCategories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXR0cmFjdGlvbkNhdGVnb3JpZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Attractions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXR0cmFjdGlvbnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Attractions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXR0cmFjdGlvbnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Attractions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXR0cmFjdGlvbnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Attractions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXR0cmFjdGlvbnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Attractions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXR0cmFjdGlvbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Coupons/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cG9uc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Coupons/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cG9uc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Coupons/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cG9uc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Coupons/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cG9uc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Coupons/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cG9uc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Departments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVwYXJ0bWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Departments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVwYXJ0bWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Departments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVwYXJ0bWVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Departments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVwYXJ0bWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Departments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVwYXJ0bWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Employess/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZXNzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Employess/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZXNzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Employess/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZXNzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Employess/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZXNzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Employess/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZXNzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Events/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Events/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Events/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Events/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Events/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/OrderItems/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJJdGVtc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/OrderItems/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJJdGVtc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/OrderItems/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJJdGVtc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/OrderItems/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJJdGVtc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/OrderItems/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJJdGVtc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Orders/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Orders/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Orders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Orders/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Orders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Promotions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvbW90aW9uc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Promotions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvbW90aW9uc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Promotions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvbW90aW9uc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Promotions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvbW90aW9uc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Promotions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvbW90aW9uc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Reservations/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzZXJ2YXRpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Reservations/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzZXJ2YXRpb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Reservations/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzZXJ2YXRpb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Reservations/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzZXJ2YXRpb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Reservations/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzZXJ2YXRpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Reviews/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmV2aWV3c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Reviews/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmV2aWV3c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Reviews/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmV2aWV3c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Reviews/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmV2aWV3c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Reviews/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmV2aWV3c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/StoreInventories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVJbnZlbnRvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/StoreInventories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVJbnZlbnRvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/StoreInventories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVJbnZlbnRvcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/StoreInventories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVJbnZlbnRvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/StoreInventories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVJbnZlbnRvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Stores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Stores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Stores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Stores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Stores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Tickets/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGlja2V0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Tickets/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGlja2V0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Tickets/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGlja2V0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Tickets/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGlja2V0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Tickets/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGlja2V0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wojtek/Desktop/Pliki/Studia III Rok/I Semestr/BDwAI/Laboratorium/\#8/AmusementParkDB/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1i5hh6ew2b

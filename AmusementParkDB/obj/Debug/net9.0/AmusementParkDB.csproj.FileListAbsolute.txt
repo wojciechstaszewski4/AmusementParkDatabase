@@ -1,0 +1,662 @@
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\appsettings.json
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\AmusementParkDB.staticwebassets.runtime.json
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\AmusementParkDB.staticwebassets.endpoints.json
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\AmusementParkDB.exe
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\AmusementParkDB.deps.json
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\AmusementParkDB.runtimeconfig.json
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\AmusementParkDB.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\AmusementParkDB.pdb
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\AmusementParkDB.csproj.AssemblyReference.cache
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\AmusementParkDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\AmusementParkDB.AssemblyInfoInputs.cache
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\AmusementParkDB.AssemblyInfo.cs
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\AmusementParkDB.csproj.CoreCompileInputs.cache
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\AmusementParkDB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\AmusementParkDB.RazorAssemblyInfo.cache
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\AmusementParkDB.RazorAssemblyInfo.cs
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\scopedcss\bundle\AmusementParkDB.styles.css
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\scopedcss\projectbundle\AmusementParkDB.bundle.scp.css
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\anj66kxn5c-61n19gt1b8.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\e6rco6ffzs-47otxtyo56.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\j2kpgdz0dq-4v8eqarkd7.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\143h9e7t2n-356vix0kms.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\l82fo8tkfa-x0q3zqp4vz.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\4q28vzo2dg-2z0ns9nrw6.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\x5gjviq5su-muycvpuwrr.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\cufshlqgl2-87fc7y1x7t.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\05sngi8zxf-mlv21k5csn.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\staticwebassets\msbuild.AmusementParkDB.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\staticwebassets\msbuild.AmusementParkDB.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\staticwebassets\msbuild.build.AmusementParkDB.props
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.AmusementParkDB.props
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.AmusementParkDB.props
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\Amusemen.2FABEF13.Up2Date
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\AmusementParkDB.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\refint\AmusementParkDB.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\AmusementParkDB.pdb
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\AmusementParkDB.genruntimeconfig.cache
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\ref\AmusementParkDB.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\8bdgv50i9n-47otxtyo56.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\vdg0vzxcjt-4v8eqarkd7.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\0snf0w6qmg-bqjiyaj88i.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\uu7arhv8da-c2jlpeoesf.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\nn74ng7ptj-erw9l3u2r3.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\tf3hisarpu-aexeepp0ev.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\79ruvdabna-d7shbmvgxk.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\pasirngrif-ausgxo2sd3.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\tri05ekngk-k8d9w2qqmf.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\jwrxtrv9bc-cosvhxvwiu.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\27gtx0gyic-ub07r2b239.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\fjnimlykge-fvhpjtyr6v.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\dawvt6jhuq-b7pk76d08c.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\sklefxxu6r-fsbi9cje9m.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\zmwt92ua8f-rzd6atqjts.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\2l3fm8to57-ee0r1s7dh0.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\aw6hxpdwrn-dxx9fxp4il.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\f9sk52x8gp-jd9uben2k1.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\kbxkiiyal8-khv3u5hwcm.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\ugqd9hy0ob-r4e9w2rdcm.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\dyro03p3p5-lcd1t2u6c8.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\99ollxp10j-c2oey78nd0.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\ugpq0kfn4n-tdbxkamptv.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\4en3yngmjf-j5mq2jizvt.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\uqtmub7n0d-06098lyss8.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\6rtmb0z403-nvvlpmu67g.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\g64uwno9qr-s35ty4nyc5.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\35thu0jjg2-pj5nd1wqec.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\glnnmbghia-46ein0sx1k.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\8zx71iafvr-v0zj4ognzu.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\1hcjqi7mjc-37tfw0ft22.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\t1xy3oygwd-hrwsygsryq.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\pt181gl8kj-pk9g2wxc8p.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\l8j5lkxgkr-ft3s53vfgj.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\164gk51uft-6cfz1n2cew.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\hbortoo0ho-6pdc2jztkx.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\lrinpiebed-493y06b0oq.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\m7zg7kntv6-iovd86k7lj.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\ifiz0t9oh7-vr1egmr9el.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\gslvok6t60-kbrnm935zg.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\9zr9hsjuzo-jj8uyg4cgr.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\ps4yzxyh9s-y7v9cxd14o.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\z11tedwa13-notf2xhcfb.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\mo9jk2w0mq-h1s4sie4z3.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\yrscilv5l8-63fj8s7r0e.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\f43odxiiis-0j3bgjxly4.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\kdt3lfv42e-83jwlth58m.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\89r6lyg646-mrlpezrjn3.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\6th86xnirk-lzl9nlhx6b.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\ozxdp3he2o-ag7o75518u.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\d6s8razblx-0i3buxo5is.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\s8yzg7cy2l-o1o13a6vjx.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\1v84y2kysy-ttgo8qnofa.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\bngqlyvuli-xtxxf3hu2r.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\93zl6id006-8n0cqvj7bv.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\cm6m484z68-8n0cqvj7bv.gz
+C:\Users\Wojtek\Documents\AmusementParkDB\obj\Debug\net9.0\compressed\mf28wjd919-0p74km2um4.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\appsettings.json
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\AmusementParkDB.staticwebassets.endpoints.json
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\AmusementParkDB.staticwebassets.runtime.json
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\AmusementParkDB.exe
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\AmusementParkDB.deps.json
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\AmusementParkDB.runtimeconfig.json
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\AmusementParkDB.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\AmusementParkDB.pdb
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\AmusementParkDB.csproj.AssemblyReference.cache
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\AmusementParkDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\AmusementParkDB.AssemblyInfoInputs.cache
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\AmusementParkDB.AssemblyInfo.cs
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\AmusementParkDB.csproj.CoreCompileInputs.cache
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\AmusementParkDB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\AmusementParkDB.RazorAssemblyInfo.cache
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\AmusementParkDB.RazorAssemblyInfo.cs
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\scopedcss\bundle\AmusementParkDB.styles.css
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\scopedcss\projectbundle\AmusementParkDB.bundle.scp.css
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\anj66kxn5c-61n19gt1b8.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\0snf0w6qmg-bqjiyaj88i.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\uu7arhv8da-c2jlpeoesf.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\nn74ng7ptj-erw9l3u2r3.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\tf3hisarpu-aexeepp0ev.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\79ruvdabna-d7shbmvgxk.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\pasirngrif-ausgxo2sd3.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\tri05ekngk-k8d9w2qqmf.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\jwrxtrv9bc-cosvhxvwiu.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\27gtx0gyic-ub07r2b239.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\fjnimlykge-fvhpjtyr6v.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\dawvt6jhuq-b7pk76d08c.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\sklefxxu6r-fsbi9cje9m.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\zmwt92ua8f-rzd6atqjts.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\2l3fm8to57-ee0r1s7dh0.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\aw6hxpdwrn-dxx9fxp4il.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\f9sk52x8gp-jd9uben2k1.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\kbxkiiyal8-khv3u5hwcm.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\ugqd9hy0ob-r4e9w2rdcm.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\dyro03p3p5-lcd1t2u6c8.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\99ollxp10j-c2oey78nd0.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\ugpq0kfn4n-tdbxkamptv.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\4en3yngmjf-j5mq2jizvt.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\uqtmub7n0d-06098lyss8.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\6rtmb0z403-nvvlpmu67g.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\g64uwno9qr-s35ty4nyc5.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\35thu0jjg2-pj5nd1wqec.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\glnnmbghia-46ein0sx1k.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\8zx71iafvr-v0zj4ognzu.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\1hcjqi7mjc-37tfw0ft22.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\t1xy3oygwd-hrwsygsryq.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\pt181gl8kj-pk9g2wxc8p.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\l8j5lkxgkr-ft3s53vfgj.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\164gk51uft-6cfz1n2cew.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\hbortoo0ho-6pdc2jztkx.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\lrinpiebed-493y06b0oq.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\m7zg7kntv6-iovd86k7lj.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\ifiz0t9oh7-vr1egmr9el.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\gslvok6t60-kbrnm935zg.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\9zr9hsjuzo-jj8uyg4cgr.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\ps4yzxyh9s-y7v9cxd14o.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\z11tedwa13-notf2xhcfb.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\mo9jk2w0mq-h1s4sie4z3.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\yrscilv5l8-63fj8s7r0e.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\f43odxiiis-0j3bgjxly4.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\e6rco6ffzs-47otxtyo56.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\j2kpgdz0dq-4v8eqarkd7.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\8bdgv50i9n-47otxtyo56.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\vdg0vzxcjt-4v8eqarkd7.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\143h9e7t2n-356vix0kms.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\kdt3lfv42e-83jwlth58m.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\89r6lyg646-mrlpezrjn3.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\6th86xnirk-lzl9nlhx6b.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\ozxdp3he2o-ag7o75518u.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\l82fo8tkfa-x0q3zqp4vz.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\d6s8razblx-0i3buxo5is.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\s8yzg7cy2l-o1o13a6vjx.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\1v84y2kysy-ttgo8qnofa.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\4q28vzo2dg-2z0ns9nrw6.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\x5gjviq5su-muycvpuwrr.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\cufshlqgl2-87fc7y1x7t.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\05sngi8zxf-mlv21k5csn.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\staticwebassets\msbuild.AmusementParkDB.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\staticwebassets\msbuild.AmusementParkDB.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\staticwebassets\msbuild.build.AmusementParkDB.props
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.AmusementParkDB.props
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.AmusementParkDB.props
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\Amusemen.2FABEF13.Up2Date
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\AmusementParkDB.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\refint\AmusementParkDB.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\AmusementParkDB.pdb
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\AmusementParkDB.genruntimeconfig.cache
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\ref\AmusementParkDB.dll
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\bngqlyvuli-3r8b2a0bt1.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\93zl6id006-w4n5qkidjf.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\cm6m484z68-w4n5qkidjf.gz
+C:\Users\Wojtek\Desktop\Pliki\Studia III Rok\I Semestr\BDwAI\Laboratorium\#8\AmusementParkDB\obj\Debug\net9.0\compressed\mf28wjd919-zp78etvvvw.gz
