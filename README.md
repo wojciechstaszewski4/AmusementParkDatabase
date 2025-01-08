@@ -1,6 +1,6 @@
 # 🎢 Amusement Park Management System  
 
-This repository contains a **system** designed to manage and optimize the operations of an amusement park. The project integrates a **robust database system** and a **dynamic web application** built using **ASP.NET Razor Pages**, ensuring scalability, advanced functionality, and user-friendly interfaces.  
+This repository contains a **system** designed to manage and optimize the operations of an amusement park. The project integrates a **database system** and a **dynamic web application** built using **ASP.NET Razor Pages**, ensuring scalability, advanced functionality, and user-friendly interfaces.  
 
 ---
 
